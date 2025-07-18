@@ -1,4 +1,4 @@
-# 🚀 CS502M Security Analytics with AI: UNSW-NB15 Dataset Analysis
+# 🚀 Security Analytics with AI: UNSW-NB15 Dataset Analysis
 
 ## 📊 Project Overview
 Analyze the UNSW-NB15 dataset for network intrusion detection using machine learning, focusing on decision tree classifiers. The goal is to identify and classify malicious network activities.
